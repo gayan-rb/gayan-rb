@@ -14,7 +14,7 @@
 <a href="https://codepen.io/gayancc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gayancc" height="30" width="40" /></a>
 <a href="https://dev.to/gayancc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gayancc" height="30" width="40" /></a>
 <a href="https://twitter.com/gayancc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gayancc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gayancc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gayancc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gayan85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gayancc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/301502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="301502" height="30" width="40" /></a>
 <a href="https://fb.com/roxcon85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="roxcon85" height="30" width="40" /></a>
 <a href="https://instagram.com/gayancc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gayancc" height="30" width="40" /></a>
